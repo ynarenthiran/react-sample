@@ -1,6 +1,6 @@
 # React Typescript by sample
 
-Due to the popularity of this repo [Jehu Sagardoy](https://github.com/jsagardoy) is getting them up to date, right now migrated from 00 to 13.
+Due to the popularity of this repo [Y Narenthiran](https://github.com/ynarenthiran) is getting them up to date, right now migrated from 00 to 13.
 
 You can check as well other repos (react / redux + typescript):
  - [React By Sample](https://github.com/Lemoncode/react-by-sample)
@@ -126,10 +126,3 @@ Pending update
 ## 18 Hooks
 
 Replace class components by stateless components using Hooks.
-
-# About Lemoncode
-
-We are a team of long-term experienced freelance developers, established as a group in 2010.
-We specialize in Front End technologies and .NET. [Click here](http://lemoncode.net/services/en/#en-home) to get more info about us. 
-
-For the LATAM/Spanish audience we are running an Online Front End Master degree, more info: http://lemoncode.net/master-frontend
